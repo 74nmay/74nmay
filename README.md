@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 👨🏻‍💻 About Me:  
 Hi, I’m **Tanmay**! I’m passionate about **machine learning**, **artificial intelligence**, and using technology to tackle real-world challenges. I love combining **data-driven solutions** with **creative problem-solving**.  
 
 Here’s a bit more about me:  
