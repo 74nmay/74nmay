@@ -15,9 +15,6 @@ Here’s a bit more about me:
 🌱 **Seeking help with**  
 - Advanced machine learning concepts and real-world AI deployment strategies.  
 
-💡 **Fun fact**  
-- I once tried training an AI to predict my next snack craving—spoiler: it’s still a work in progress! 😄  
-
 ---
 
 ## 🌐 Connect with me  
