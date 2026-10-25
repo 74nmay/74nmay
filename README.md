@@ -1,35 +1,77 @@
-# 👨🏻‍💻 About Me:  
-Hi, I’m **Tanmay**! I’m passionate about **machine learning**, **artificial intelligence**, and using technology to tackle real-world challenges. I love combining **data-driven solutions** with **creative problem-solving**.  
+# Tanmay Talreja
 
-Here’s a bit more about me:  
+<div align="left">
+  <a href="https://linkedin.com/in/74nmay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tanmay.talreja@outlook.com"><img src="https://img.shields.io/badge/Email-tanmay.talreja%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/74nmay"><img src="https://img.shields.io/badge/Location-Coventry%20%7C%20London%2C%20UK-lightgrey?style=flat" alt="Location" /></a>
+</div>
 
-🚀 **Currently working on**  
-- Developing machine learning models while diving deeper into deep learning and real-world AI applications.  
+<br/>
 
-🤝 **Looking to collaborate on**  
-- Machine learning projects, AI research, and innovative tech solutions.  
-
-📚 **Currently learning**  
-- Deep learning, neural networks, and time-series forecasting. 
-
-🌱 **Seeking help with**  
-- Advanced machine learning concepts and real-world AI deployment strategies.  
+**AI Systems & Data Infrastructure Engineer**  
+MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre of Excellence  
+*Specialized in production Agentic AI orchestration, hybrid multimodal retrieval, and scalable data lakehouse architectures.*
 
 ---
 
-## 🌐 Connect with me  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/74nmay) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmay.talreja@outlook.com) 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmaytalreja)
+### 🏛️ Engineering Focus
+
+- **Agentic AI & Orchestration:** Production multi-agent workflows, LangGraph tool-calling systems, AST-safe code execution sandboxes, and hybrid vector-graph retrieval.
+- **High-Throughput Data Infrastructure:** Lakehouse architectures (Apache Iceberg, Apache Spark, Kafka), distributed feature engineering, and automated validation pipelines.
+- **Applied Deep Learning & Edge CV:** Multimodal document embedding (ColPali), 1D-CNN spectral classification, lightweight Vision Transformers (MobileViT-XS), and real-time inference optimization.
 
 ---
 
-## 💻 Tech Stack  
-🛠️ **Tech I love working with:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+### 🚀 Featured Engineering Repositories
+
+#### 🧠 [Adaptive Agentic Multimodal RAG](https://github.com/74nmay/adaptive-agentic-multimodal-rag)
+*Production-grade multimodal document intelligence engine with dynamic turn-budgeting, cross-page table continuation, and deterministic execution.*
+- **Core Architecture:** Python 3.12, LangGraph, Qdrant, Kùzu Graph DB, FastAPI, ColPali visual embeddings, PaddleOCR.
+- **Key Breakthroughs:**
+  - Boosted split-table Full-Recall@5 from **40.0% to 91.7%** via property graph continuations across a 60-query benchmark.
+  - Eliminated math hallucinations (**95.0% audit verification rate**) via an AST-safe Python sandbox and 6-tier LLM fallback cascade.
+  - Full observability stack powered by OpenTelemetry tracing and streaming SSE agent state.
+
+#### 📊 [Enterprise Lakehouse Spark-Iceberg Pipeline](https://github.com/74nmay/lakehouse-spark-iceberg-pipeline)
+*End-to-end streaming lakehouse pipeline demonstrating ACID transactions, compaction, and schema evolution.*
+- **Core Architecture:** Apache Kafka, PySpark, Apache Iceberg, MinIO / AWS S3, DuckDB, Docker Compose.
+- **Key Capabilities:**
+  - Streaming CDC ingestion from operational stores into Iceberg tables with automated compaction.
+  - Snapshot isolation, time-travel queries, and automated schema migration routines.
+  - Built-in data contract assertions and automated anomaly quarantine.
+
+#### 🔬 [Multimodal Mineral Classification via Raman Spectroscopy](https://github.com/74nmay/Rock-Classification-with-a-RAMAN-Spectrometer)
+*Deep learning benchmark on sequential spectral profiles and edge vision models for mineral classification.*
+- **Core Architecture:** PyTorch, scikit-learn, SciPy, MobileViT-XS, ResNet50, 1D-CNNs.
+- **Key Breakthroughs:**
+  - Benchmarked deep 1D-CNNs, MLPs, and Random Forest ensemble classifiers on sequential spectral profiles across 1 fps and 30 fps capture rates at Montanuniversität Leoben.
+  - Attained **96.3% cross-validated accuracy** and evaluated memory-latency trade-offs for edge deployment.
+
+#### 🌿 [Leaf Disease Severity Detection Pipeline](https://github.com/74nmay/Leaf-Disease-Severity-Analysis)
+*Computer vision pipeline trained on 12,000 custom-labeled images with advanced contrast engineering.*
+- **Core Architecture:** TensorFlow, EfficientNetV2L, OpenCV, CUDA.
+- **Key Breakthroughs:**
+  - Engineered contrast enhancement pipeline combining HSV masking, CLAHE, and sharpening filters to improve feature convergence on T4 GPUs.
+  - Multiclass disease severity grading with quantified inference latency profiles.
 
 ---
- 
-  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
+
+### 🛠️ Technical Arsenal
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python (PyData, Async, FastAPI), SQL (PostgreSQL, Trino, BigQuery), Bash, C++ |
+| **AI Systems & GenAI** | LangGraph, Qdrant (Vector DB), Kùzu (Graph DB), Hugging Face, ColPali, Ollama, OpenTelemetry |
+| **Data & Cloud Platforms** | Apache Spark, Apache Iceberg, Kafka, AWS (S3, EC2, Lambda), Docker, Linux/Unix |
+| **Machine Learning & CV** | PyTorch, TensorFlow, scikit-learn, OpenCV, SciPy, NumPy, Pandas, Power BI |
 
 ---
 
+<details>
+<summary><b>📈 Academic & Industrial Background</b></summary>
+
+- **University of Warwick**: MSc Applied Artificial Intelligence *(Expected 2027)*
+- **Montanuniversität Leoben (Austria)**: Semester Exchange in Industrial Data Science *(Scholarship recipient)*
+- **Manipal University Jaipur**: B.Tech in Computer Science and Engineering *(2022 – 2026)*
+- **Industry Experience**: PwC India (AI Intern — AI Centre of Excellence), Smartworks Tech Solutions (Data Science Intern), Invest4Edu (Machine Learning Intern)
+</details>
