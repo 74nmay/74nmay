@@ -3,13 +3,12 @@
 <div align="left">
   <a href="https://linkedin.com/in/74nmay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tanmay.talreja@outlook.com"><img src="https://img.shields.io/badge/Email-tanmay.talreja%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/74nmay"><img src="https://img.shields.io/badge/Location-Coventry%20%7C%20London%2C%20UK-lightgrey?style=flat" alt="Location" /></a>
 </div>
 
 <br/>
 
-**AI Engineer & Machine Learning Specialist**  
-MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre of Excellence  
+
+MSc Applied Artificial Intelligence @ University of Warwick 
 *Focusing on production Agentic AI orchestration, hybrid multimodal retrieval, and applied deep learning systems.*
 
 ---
@@ -59,11 +58,4 @@ MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre o
 
 ---
 
-<details>
-<summary><b>📈 Academic & Industrial Background</b></summary>
 
-- **University of Warwick**: MSc Applied Artificial Intelligence *(Expected 2027)*
-- **Montanuniversität Leoben (Austria)**: Semester Exchange in Industrial Data Science *(Scholarship recipient)*
-- **Manipal University Jaipur**: B.Tech in Computer Science and Engineering *(2022 – 2026)*
-- **Industry Experience**: PwC India (AI Intern — AI Centre of Excellence), Smartworks Tech Solutions (Data Science Intern), Invest4Edu (Machine Learning Intern)
-</details>
