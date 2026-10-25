@@ -8,17 +8,17 @@
 
 <br/>
 
-**AI Systems & Data Infrastructure Engineer**  
+**AI Engineer & Machine Learning Specialist**  
 MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre of Excellence  
-*Specialized in production Agentic AI orchestration, hybrid multimodal retrieval, and scalable data lakehouse architectures.*
+*Focusing on production Agentic AI orchestration, hybrid multimodal retrieval, and applied deep learning systems.*
 
 ---
 
 ### 🏛️ Engineering Focus
 
-- **Agentic AI & Orchestration:** Production multi-agent workflows, LangGraph tool-calling systems, AST-safe code execution sandboxes, and hybrid vector-graph retrieval.
-- **High-Throughput Data Infrastructure:** Lakehouse architectures (Apache Iceberg, Apache Spark, Kafka), distributed feature engineering, and automated validation pipelines.
-- **Applied Deep Learning & Edge CV:** Multimodal document embedding (ColPali), 1D-CNN spectral classification, lightweight Vision Transformers (MobileViT-XS), and real-time inference optimization.
+- **Agentic AI & LLM Systems:** Production multi-agent workflows, LangGraph tool-calling orchestrators, AST-safe code execution sandboxes, and hybrid vector-graph retrieval.
+- **Applied Deep Learning & Edge CV:** Multimodal document embedding (ColPali), 1D-CNN spectral classification, lightweight Vision Transformers (MobileViT-XS), and real-time computer vision pipelines.
+- **Data & Feature Engineering:** Clean Python/SQL ingestion workflows, automated feature preprocessing pipelines (Pandas/NumPy), and evaluation harness engineering.
 
 ---
 
@@ -32,14 +32,6 @@ MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre o
   - Eliminated math hallucinations (**95.0% audit verification rate**) via an AST-safe Python sandbox and 6-tier LLM fallback cascade.
   - Full observability stack powered by OpenTelemetry tracing and streaming SSE agent state.
 
-#### 📊 [Enterprise Lakehouse Spark-Iceberg Pipeline](https://github.com/74nmay/lakehouse-spark-iceberg-pipeline)
-*End-to-end streaming lakehouse pipeline demonstrating ACID transactions, compaction, and schema evolution.*
-- **Core Architecture:** Apache Kafka, PySpark, Apache Iceberg, MinIO / AWS S3, DuckDB, Docker Compose.
-- **Key Capabilities:**
-  - Streaming CDC ingestion from operational stores into Iceberg tables with automated compaction.
-  - Snapshot isolation, time-travel queries, and automated schema migration routines.
-  - Built-in data contract assertions and automated anomaly quarantine.
-
 #### 🔬 [Multimodal Mineral Classification via Raman Spectroscopy](https://github.com/74nmay/Rock-Classification-with-a-RAMAN-Spectrometer)
 *Deep learning benchmark on sequential spectral profiles and edge vision models for mineral classification.*
 - **Core Architecture:** PyTorch, scikit-learn, SciPy, MobileViT-XS, ResNet50, 1D-CNNs.
@@ -48,11 +40,11 @@ MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre o
   - Attained **96.3% cross-validated accuracy** and evaluated memory-latency trade-offs for edge deployment.
 
 #### 🌿 [Leaf Disease Severity Detection Pipeline](https://github.com/74nmay/Leaf-Disease-Severity-Analysis)
-*Computer vision pipeline trained on 12,000 custom-labeled images with advanced contrast engineering.*
+*Computer vision pipeline trained on custom-labeled images with advanced spatial contrast engineering.*
 - **Core Architecture:** TensorFlow, EfficientNetV2L, OpenCV, CUDA.
 - **Key Breakthroughs:**
   - Engineered contrast enhancement pipeline combining HSV masking, CLAHE, and sharpening filters to improve feature convergence on T4 GPUs.
-  - Multiclass disease severity grading with quantified inference latency profiles.
+  - Multiclass disease severity grading mapped to the 12-class agricultural Horsfall-Barratt (HB) rating scale.
 
 ---
 
@@ -60,10 +52,10 @@ MSc Applied Artificial Intelligence @ University of Warwick | Ex-PwC AI Centre o
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python (PyData, Async, FastAPI), SQL (PostgreSQL, Trino, BigQuery), Bash, C++ |
+| **Languages** | Python (PyData, Async, FastAPI), SQL (PostgreSQL, BigQuery), Bash, C++ |
 | **AI Systems & GenAI** | LangGraph, Qdrant (Vector DB), Kùzu (Graph DB), Hugging Face, ColPali, Ollama, OpenTelemetry |
-| **Data & Cloud Platforms** | Apache Spark, Apache Iceberg, Kafka, AWS (S3, EC2, Lambda), Docker, Linux/Unix |
 | **Machine Learning & CV** | PyTorch, TensorFlow, scikit-learn, OpenCV, SciPy, NumPy, Pandas, Power BI |
+| **Cloud & DevOps** | Docker, Linux/Unix, AWS (S3, EC2, Lambda), Git |
 
 ---
 
